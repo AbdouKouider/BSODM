@@ -1,0 +1,4 @@
+Ce qu'on va faire c'est la chose suivante:
+au niveau de chaque abeille: ---> évaluer très peu de solution et laisser les autres et mettre le label 'bonne' ou 'mauvaise'.
+                             ---> appliquer le SSL pour classifier les solutions restantes
+                             ---> évaluer les 'bonne', et s'il existe une 'bonne' qui est meilleure que la best, alors best la reçoit.
